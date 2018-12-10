@@ -238,7 +238,7 @@ For most terms used on VA.gov, we use the standard American English spelling in 
 
 - secondary claim: A claim to get more disability benefits for a new disability that’s linked to an existing service-connected disability. For example: arthritis that’s caused by an existing service-connected knee injury. **[@Beth, Danielle - note related to new claim, original claim, secondary claim, etc.]**
 
-- Selected Reserve  **[@Beth, Danielle - what does this entry mean?]**
+- Selected Reserve  **[@Beth, Danielle - what does this entry mean?]** Beth's note: capitalize this term.
 
 - service connected: Hyphenate when preceding a noun. For example, "a Veteran with a service-connected disability." Otherwise, do not hyphenate. For example, "The disability is considered service connected."
 
